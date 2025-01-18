@@ -15,18 +15,7 @@ module.exports = {
  // For Enabling Commands Like AUTO_STATUS_VIEW Type true For Disabling Type false  
 //____________________________________________________________________________________________________________________________________________  
   SESSION_ID: process.env.SESSION_ID || 'Phoenix~RazorSharp',
-  STICKER_DATA: process.env.STICKER_DATA || ' 「🍁」 𝐃𝐀𝐑𝐊  𝐏𝐑𝐈𝐍𝐂𝐄  » 𝘅 ↯
-
-
-•𝐌𝐢𝐧𝐞 𝐨𝐟 𝐤𝐚𝐯𝐲𝐚 🤍🌷
-
-
-
-•犬 𝟗𝟏𝟖𝟏𝟑𝟔𝟖𝟖𝟎𝟗𝟖𝟔 又•
-
-
-
-•𝚸𝚪𝚰𝚴𝐂𝚬 𝚯𝐅 𝐃𝐀𝐑𝐊𝚴𝚬𝐒𝐒',
+  STICKER_DATA: process.env.STICKER_DATA || ' 「🍁」 𝐃𝐀𝐑𝐊  𝐏𝐑𝐈𝐍𝐂𝐄  » 𝘅 ↯!',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, ɪ ᴍ *ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || ' 「🍁」 𝐃𝐀𝐑𝐊  𝐏𝐑𝐈𝐍𝐂𝐄  » 𝘅 ↯;𝐌𝐢𝐧𝐞 𝐨𝐟 𝐤𝐚𝐯𝐲𝐚🤍🌷;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   BOT_INFO: process.env.BOT_INFO || 'ᴘʜᴏᴇɴɪx-ᴍᴅ;𝐀𝐚𝐝𝐡𝐢 𝐱 𝐤𝐚𝐯𝐲𝐚 ;𝟗𝟏𝟖𝟏𝟑𝟔𝟖𝟖𝟎𝟗𝟖𝟔https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg', 
